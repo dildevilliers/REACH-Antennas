@@ -1,7 +1,7 @@
 # Minutes of Antennas Telecon
 ## Date: 20190401
 ## Present: 
-Dirk de Villiers, Brandt Klopper, Eloy de Lera Acedo, Nima Razavi, Nicolas Fagnoni, John Cummer, Quentin Gueuning, Christphe Craeye
+Dirk de Villiers, Brandt Klopper, Eloy de Lera Acedo, Nima Razavi, Nicolas Fagnoni, John Cumner, Quentin Gueuning, Christphe Craeye
 
 ## Discussions
 - Eloy provided a note on FoM for antenna designs for REACH

@@ -1,7 +1,7 @@
 # Minutes of Antennas Telecon
 ## Date: 20190326
 ## Present: 
-Dirk de Villiers, Brandt Klopper, Eloy de Lera Acedo, Nima Razavi, Nicolas Fagnoni, Nafsika Memeletzoglou, John Cummer, Quentin Gueuning
+Dirk de Villiers, Brandt Klopper, Eloy de Lera Acedo, Nima Razavi, Nicolas Fagnoni, Nafsika Memeletzoglou, John Cumner, Quentin Gueuning
 
 ## Discussions
 - Brandt presents slides on current simulation work: EDGES (High) and Sinuous Antennas.  EDGES sim looks close to their results.
