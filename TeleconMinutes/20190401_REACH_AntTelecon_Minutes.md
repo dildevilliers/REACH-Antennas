@@ -42,6 +42,7 @@ Dirk de Villiers, Brandt Klopper, Eloy de Lera Acedo, Nima Razavi, Nicolas Fagno
 - Eloy leads discussion on FoM's
 - Brandt feedback on FoM implementation
 - Cambridge feedback on element simulations
-- Include Nimas elliptical dipole as a possible element
+    - Include Nimas elliptical dipole as a possible element
+    - Karoo soil models from Braam Otto
 - Repo/Wiki access
 - AOB
